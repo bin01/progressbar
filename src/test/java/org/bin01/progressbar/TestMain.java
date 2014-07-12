@@ -1,4 +1,7 @@
-package com.bin01.progressbar;
+package org.bin01.progressbar;
+
+import org.bin01.progressbar.ConsoleProgressBar;
+import org.bin01.progressbar.ProgressBar;
 
 public class TestMain {
 
